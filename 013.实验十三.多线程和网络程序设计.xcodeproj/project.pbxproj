@@ -12,6 +12,8 @@
 		3F7A335721C7A1E700DE6A0B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7A335521C7A1E700DE6A0B /* Main.storyboard */; };
 		3F7A335921C7A1E800DE6A0B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F7A335821C7A1E800DE6A0B /* Assets.xcassets */; };
 		3F7A335C21C7A1E800DE6A0B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F7A335A21C7A1E800DE6A0B /* LaunchScreen.storyboard */; };
+		3F7A336521C7B45300DE6A0B /* webViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F7A336421C7B45300DE6A0B /* webViewController.swift */; };
+		3F7A336721C7BEF000DE6A0B /* default.html in Resources */ = {isa = PBXBuildFile; fileRef = 3F7A336621C7BEF000DE6A0B /* default.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		3F7A335821C7A1E800DE6A0B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F7A335B21C7A1E800DE6A0B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F7A335D21C7A1E800DE6A0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F7A336421C7B45300DE6A0B /* webViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = webViewController.swift; sourceTree = "<group>"; };
+		3F7A336621C7BEF000DE6A0B /* default.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = default.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				3F7A335821C7A1E800DE6A0B /* Assets.xcassets */,
 				3F7A335A21C7A1E800DE6A0B /* LaunchScreen.storyboard */,
 				3F7A335D21C7A1E800DE6A0B /* Info.plist */,
+				3F7A336421C7B45300DE6A0B /* webViewController.swift */,
+				3F7A336621C7BEF000DE6A0B /* default.html */,
 			);
 			path = "013.实验十三.多线程和网络程序设计";
 			sourceTree = "<group>";
@@ -122,6 +128,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F7A336721C7BEF000DE6A0B /* default.html in Resources */,
 				3F7A335C21C7A1E800DE6A0B /* LaunchScreen.storyboard in Resources */,
 				3F7A335921C7A1E800DE6A0B /* Assets.xcassets in Resources */,
 				3F7A335721C7A1E700DE6A0B /* Main.storyboard in Resources */,
@@ -137,6 +144,7 @@
 			files = (
 				3F7A335421C7A1E700DE6A0B /* ViewController.swift in Sources */,
 				3F7A335221C7A1E700DE6A0B /* AppDelegate.swift in Sources */,
+				3F7A336521C7B45300DE6A0B /* webViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
