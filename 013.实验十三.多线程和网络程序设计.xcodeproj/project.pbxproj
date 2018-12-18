@@ -98,7 +98,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1000;
 				LastUpgradeCheck = 1000;
-				ORGANIZATIONNAME = "013.实验十三.多线程和网络程序设计";
+				ORGANIZATIONNAME = lipan;
 				TargetAttributes = {
 					3F7A334D21C7A1E700DE6A0B = {
 						CreatedOnToolsVersion = 10.0;

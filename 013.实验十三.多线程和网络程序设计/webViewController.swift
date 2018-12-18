@@ -3,7 +3,7 @@
 //  013.实验十三.多线程和网络程序设计
 //
 //  Created by student on 2018/12/17.
-//  Copyright © 2018年 013.实验十三.多线程和网络程序设计. All rights reserved.
+//  Copyright © 2018年 李潘. All rights reserved.
 //
 
 import UIKit
